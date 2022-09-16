@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Lecture notes for selected topics in the class are presented in this
+  section. "Muddy Points" refer to topics that students found particularly difficult
+  or confusing.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

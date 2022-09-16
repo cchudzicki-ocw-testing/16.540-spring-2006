@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information about the course text, and includes
+  the supplementary reading list which provides a different perspective on the topics
+  covered.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
